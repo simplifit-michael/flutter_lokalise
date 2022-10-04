@@ -11,7 +11,7 @@ executables:
   flutter_lokalise:
 
 dependencies:
-  archive: ^3.3.1
+  archive: ^3.1.11
   args: ^2.3.1
   json_annotation: ^4.7.0
   freezed_annotation: ^2.1.0
